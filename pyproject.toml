@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "albumentations",
+    "flax>=0.12.7",
     "future",
     "gdown>=6.0.0",
     "grain>=0.2.16",
@@ -17,6 +18,7 @@ dependencies = [
     "pillow",
     "pyrr",
     "pytest",
+    "rich>=15.0.0",
     "ruamel-yaml>=0.19.1",
     "scipy",
     "seaborn",
